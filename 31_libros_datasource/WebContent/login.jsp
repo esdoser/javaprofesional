@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h1>Pagina de inicio</h1>
 	<center>
 		<form action="Controller?op=doLogin" method="POST">
 		 <%String user="";
